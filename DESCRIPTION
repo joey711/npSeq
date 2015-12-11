@@ -1,0 +1,9 @@
+Package: npSeq
+Title: A non-parametric method for significance analysis of sequencing data
+Version: 1.1
+Author: Jun Li
+Description: This package implements all methods used in paper Jun Li and Robert Tibshirani (2011). Finding consistent patterns: a nonparametric approach for identifying differential expression in RNA-Seq data. To appear, Statistical Methods in Medical Research.
+Maintainer: Jun Li <junli07@stanford.edu>
+Depends: combinat
+License: LGPL
+Packaged: 2011-09-08 05:28:05 UTC; junli07
